@@ -1,5 +1,9 @@
 # Android Games
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
+
 * 2048 Puzzle
 * Auralux
 * GTA: SA (and GTA: SA Cheater)

@@ -14,7 +14,6 @@
   - [Buying](#buying)
   - [Entertainment](#entertainment)
   - [Navigation / Maps / Transports](#navigation--maps--transports)
-- [Android Games](#android-games)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
