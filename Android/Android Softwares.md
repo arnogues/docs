@@ -49,9 +49,16 @@
 * QuickPic
 * Salaire Brut Net
 
+### Google Apps
+* [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
+* [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
+* [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
+* [Google Agenda](https://play.google.com/store/apps/details?id=com.google.android.calendar)
+* [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
+
 
 ### Personal / Communication / Social / Etc
-* Carousel
+* [Carousel](https://play.google.com/store/apps/details?id=com.dropbox.carousel)
 * Dropbox
 * Drive
 * Evernote
