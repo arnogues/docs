@@ -8,7 +8,7 @@
   - [System](#system)
   - [Utils](#utils)
   - [Personal / Communication / Social / Etc](#personal--communication--social--etc)
-  - [Crack/Hack](#crackhack)
+  - [Cool stuff :)](#cool-stuff-)
   - [Internet](#internet)
   - [Cooking](#cooking)
   - [Buying](#buying)
@@ -64,7 +64,7 @@
 * WhatsApp
 
 
-### Crack/Hack
+### Cool stuff :)
 * Freedom
 * Game Guardian
 * Game Killer
