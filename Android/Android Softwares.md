@@ -7,6 +7,7 @@
 - [Android Softwares :](#android-softwares-)
   - [System](#system)
   - [Utils](#utils)
+  - [Google Apps](#google-apps)
   - [Personal / Communication / Social / Etc](#personal--communication--social--etc)
   - [Cool stuff :)](#cool-stuff-)
   - [Internet](#internet)
