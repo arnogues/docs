@@ -1,31 +1,37 @@
 ## Android Softwares :
-### Utils
-* 1password reader
+
+### System
 * AirDroid
 * AntTek App Manager Pro
+* Battery Doctor
 * AppSaver
 * Astro (file manager)
-* BarCode Scanner
-* Battery Doctor
-* Camcard
 * Clean master
-* Chronometres Xtreme
 * DiskUsage
-* DS File
-* Google Earth
 * FolderMount
-* Goggles
-* My Data Manager
 * Next Launcher
 * Proximity Fix
 * ProxyDroid
+* Root Explorer
+* WidgetSoid
+* Wifi Manager
+
+### Utils
+* 1password reader
+* BarCode Scanner
+* Camcard
+* Chronometre Xtreme
+* Reveil Xtrem
+* DS File
+* Google Earth
+* Goggles
+* My Data Manager
 * QuickOffice
 * QuickPic
-* Root Explorer
 * Salaire Brut Net
 
 
-### Personal / Communication
+### Personal / Communication / Social / Etc
 * Carousel
 * Dropbox
 * Drive
@@ -34,8 +40,9 @@
 * Hangouts
 * HFR4Droid
 * Greader Pro
-* Spotify
-* VLC
+* Twitter
+* Ticktick
+* WhatsApp
 
 
 ### Crack/Hack
@@ -76,6 +83,8 @@
 * Spotify
 * Perfect View
 * Shazam
+* Spotify
+* VLC
 
 
 ### Navigation / Maps / Transports
@@ -85,6 +94,8 @@
 * RATP
 * Strava
 * Transilien
+* Vianavigo
+* Waze
 
 
 ### Android Games
