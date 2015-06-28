@@ -68,7 +68,7 @@
 * Lidl
 * Fidme
 * Ikea
-* Leboncoin
+* Leboncoinm
 * LeclercDrive
 * Les numeriques 
 * MyAuchan
@@ -98,7 +98,7 @@
 * Waze
 
 
-### Android Games
+## Android Games
 * 2048 Puzzle
 * Auralux
 * GTA: SA (and GTA: SA Cheater)
