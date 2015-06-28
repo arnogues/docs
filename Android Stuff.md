@@ -54,6 +54,7 @@
 ### Cooking
 * Marmiton
 
+
 ### Buying
 * Amazon
 * Electro Depot
@@ -66,6 +67,7 @@
 * MyAuchan
 * Qoqa
 
+
 ### Entertainment
 * BSplayer
 * Mx Player
@@ -75,7 +77,17 @@
 * Perfect View
 * Shazam
 
-### Games
+
+### Navigation / Maps / Transports
+* Google earth
+* Taxis G7
+* Uber
+* RATP
+* Strava
+* Transilien
+
+
+### Android Games
 * 2048 Puzzle
 * Auralux
 * GTA: SA (and GTA: SA Cheater)
@@ -86,11 +98,3 @@
 * Mini Motor
 * Osmos HD
 * Sudoku
-
-### Navigation / Maps / Transports
-* Google earth
-* Taxis G7
-* Uber
-* RATP
-* Strava
-* Transilien
