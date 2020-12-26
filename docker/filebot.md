@@ -15,8 +15,8 @@ sudo chown -R 1042:1042 filebot
 ```
 
 - Volumes
-/media -> /media
-/docker/filebot/config -> /config
+- /media -> /media
+- /docker/filebot/config -> /config
 
 - Ports
 3389 -> 3389 (api)
