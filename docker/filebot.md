@@ -2,7 +2,7 @@
 
 
 ## Prérequis
-- Télécharger sur https://hub.docker.com/r/coppit/filebot
+- Utiliser le container : `coppit/filebot` ou télécharger sur https://hub.docker.com/r/coppit/filebot
 
 
 ## Configuration
