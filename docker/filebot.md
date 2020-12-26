@@ -2,7 +2,7 @@
 
 
 ## Prérequis
-- Utiliser le container : `coppit/filebot` ou télécharger sur https://hub.docker.com/r/coppit/filebot
+- Utiliser le container : `jlesage/filebot` ou télécharger sur https://hub.docker.com/r/jlesage/filebot
 
 
 ## Configuration
@@ -19,8 +19,7 @@ sudo chown -R 1042:1042 filebot
 - /docker/filebot/config -> /config
 
 - Ports
-3389 -> 3389 (api)
-8080 -> 8080 (ui)
+5800 -> 5800
 
 ## Editer fichier config
 - Lancer une fois le container
