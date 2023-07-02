@@ -1,18 +1,11 @@
 # L-trott Guide
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**
 
-- [Guide de réparation](#guide-de-r%C3%A9paration)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-
-I have an electric Scooter : L-trott GT 
-
-
+- [L-trott Guide](#l-trott-guide)
+  - [Guide de réparation](#guide-de-réparation)
 
 ## Guide de réparation
-* Original link : http://www.weebly.com/uploads/2/4/1/9/24198314/e-twow_gnration_s2_-_rparation_-_20141127.pdf
-* [Version locale](e-twow_gnration_s2_-_rparation_-_20141127.pdf) 
+
+- Original link : http://www.weebly.com/uploads/2/4/1/9/24198314/e-twow_gnration_s2_-_rparation_-_20141127.pdf
+- [Version locale](Ltrott%20e-twow%20generation%20s2%20-%20reparation%20-%2020141127.pdf)
